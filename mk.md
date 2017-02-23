@@ -1,6 +1,6 @@
 % Bioinformática automática y reproducible con `mk`
 % Joshua Ismael Haase Hernández
-% Xtraining - INMEGEN - 2016-10-12
+% INMEGEN - 2017-02-23
 
 ![La Biología moderna necesita computadoras.](data/curso-mk/biotech.png)
 
@@ -184,4 +184,3 @@ env NPROC=`grep proc /proc/cpuinfo | wc -l` mk
 ```
 env NPROC=1` mk
 ```
-
